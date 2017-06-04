@@ -10,5 +10,3 @@ Use this sample application with a DevOps toolchain ([template](https://github.c
 
 ###To get started, click this button:
 [![Create Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/open-toolchain/cloud-native-toolchain-tutorial)
-
-New line
